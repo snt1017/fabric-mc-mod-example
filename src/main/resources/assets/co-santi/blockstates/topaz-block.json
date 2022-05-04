@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "co-santi:block/topaz-block" }
+  }
+}
